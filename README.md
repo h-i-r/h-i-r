@@ -91,7 +91,6 @@ ___
 | End-to-End Customer Purchase Prediction with Docker Implementation | | <center> [🔗](https://github.com/h-i-r/End-to-End-Docker-Implementation-ML-model) |
 
 
-
 <a name="mlops"></a>
 ## MLOps 
 | Topic                                                     | Article                                                                                                                | Project         |
@@ -99,12 +98,10 @@ ___
 | End-to-End Image Classification using MLflow |                                                                                  | <center> [🔗](https://github.com/h-i-r/End-To-End-Image-Classification-using-MLflow) |
 
 
-
 <a name="dl"></a>
-## Deep Learning 
-| Topic                                                     | Article                                                                                                                | Project         |
-|-----------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------|-----------------|
-| RAG Chatbot using Llama-2, LangChain & Pinecone
- |                                                                                  | <center> [🔗](https://github.com/h-i-r/RAG-Chatbot-using-Llama-2-LangChain-and-Pinecone.git) |
+## Deep Learning
+| Topic                                                                                                 | Article                                                                                                                | Project         |
+|-------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------|-----------------|
+| RAG Chatbot using Llama2, LangChain & Pinecone | | <center> [🔗](https://github.com/h-i-r/RAG-Chatbot-using-Llama-2-LangChain-and-Pinecone) |
 
 
