@@ -14,8 +14,7 @@
 - [Data Engineering](#de)
 - [Machine Learning](#ml)
 - [MLOps](#mlops)
-
-[//]: # (- [Deep Learning]&#40;#dl&#41;)
+- [Deep Learning](#dl)
 
 ### 🪄 Skills
 - ![](https://img.shields.io/badge/Language-Python-informational??style=for-the-badge&color=pink)
@@ -101,15 +100,11 @@ ___
 
 
 
-[//]: # (<a name="dl"></a>)
+<a name="dl"></a>
+## Deep Learning 
+| Topic                                                     | Article                                                                                                                | Project         |
+|-----------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------|-----------------|
+| RAG Chatbot using Llama-2, LangChain & Pinecone
+ |                                                                                  | <center> [🔗](https://github.com/h-i-r/RAG-Chatbot-using-Llama-2-LangChain-and-Pinecone.git) |
 
-[//]: # (## Deep Learning )
-
-[//]: # (| Topic                                                                               | Article | Project |)
-
-[//]: # (|-------------------------------------------------------------------------------------|------------|--------|)
-
-[//]: # (| Implementing Retrieval-Augmented Generation &#40;RAG&#41; using OpenAI GPT-3.5 and Pinecone |            |    <center> [🔗]&#40;...&#41; |)
-
-[//]: # ()
 
